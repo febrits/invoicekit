@@ -1,7 +1,7 @@
 # InvoiceKit 🦉
 ## 🌐 Live Demo
 
-https://invoicekit-olive.vercel.app
+febrits/habitgrid
 
 
 A sleek, dark-themed invoice generator for freelancers. Built with React 19, TypeScript, Vite, and Tailwind CSS v4.
