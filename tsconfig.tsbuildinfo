@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/InvoiceForm.tsx","./src/components/InvoiceList.tsx","./src/components/InvoicePreview.tsx","./src/hooks/useLocalStorage.ts","./src/types/invoice.ts","./src/utils/calculations.ts","./src/utils/sampleData.ts"],"version":"6.0.3"}
